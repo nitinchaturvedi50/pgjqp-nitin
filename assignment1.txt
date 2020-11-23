@@ -1,0 +1,8 @@
+today is task:
+6. constuctor are same in class name  and method or member function but in method or member function canot be same name and class name and constructor is not return type but method has return type.
+8.access specifier are used to access the method function and member function.
+it is of three type:
+1.public:it shows the method function 
+2.private:it does not shows the member function or hide the function.
+3.protected:it protected the method and function 
+7.static key word means it is used to store the data
