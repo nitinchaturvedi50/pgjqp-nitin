@@ -2,17 +2,13 @@
 import java.util.Scanner;
 class Multiple2
 {  public static void main(String[] args)
-   {  int size,i;
-     int arr[]=new int [size];
+   {
+     int arr[]= new arr[size];
      System.out.println("enter the size in array");
      Scanner sc=new Scanner(System.in);
-      size=sc.nextInt();
-      //arr[i]=sc.nextInt();
-     for(i=0;i<size;i++)
+     for(int i=1;i<size;i++)
      {  arr[i]=sc.nextInt();
       }
-      for(i=0;i<size;i++)
-     {  System.out.println(arr[i]);
+      for(int i=1;i<size;i++)
+     {  System.out.println(arr[i]*2);
       }
-}
-}
